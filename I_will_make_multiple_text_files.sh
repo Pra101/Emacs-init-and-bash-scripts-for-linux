@@ -1,5 +1,4 @@
 #! /bin/bash
-touch x.cpp
 echo "Enter how many .txt files you want to prepare:"
 read ct
 i=1
